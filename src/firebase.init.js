@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "router-firebase-integrat-20971",
   storageBucket: "router-firebase-integrat-20971.appspot.com",
   messagingSenderId: "842106954543",
-  appId: "1:842106954543:web:c919a6eecddf1d805977da"
+  appId: "1:842106954543:web:c919a6eecddf1d805977da",
 };
 
 // Initialize Firebase
